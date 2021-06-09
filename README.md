@@ -7,3 +7,5 @@ Jest to gra wzorowana na grze "Don't touch the spikes".
 * Skacz ptakiem w górę używając spacji
 * Odbijaj się od boków ekranu unikając przy tym kolców
 * Uważaj, żeby nie latać za nisko, ani za wysoko!
+* 
+![Screen1](projekt-programowanie/screenshots/screen1.png)
