@@ -9,3 +9,4 @@ Jest to gra wzorowana na grze "Don't touch the spikes".
 * Uważaj, żeby nie latać za nisko, ani za wysoko!
 
 ![Screen1](./screenshots/screen1.png)
+![Screen1](./screenshots/screen2.png)
