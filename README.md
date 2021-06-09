@@ -17,5 +17,7 @@ Zdobywaj punkty latając i unikając zagrożeń w postaci kolców- najgorszych w
 ## Tryb One-shot:
 * Ptak posiada jedno życie
 
+##Screenshoty
+
 ![Screen1](./screenshots/screen1.png)
 ![Screen1](./screenshots/screen2.png)
